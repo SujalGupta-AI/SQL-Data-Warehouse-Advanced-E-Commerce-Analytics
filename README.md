@@ -43,7 +43,7 @@ The analytical work is divided into five specialized phases, each addressing a s
 ### Key Analytical Insights
 *(Note: These are simulated results based on the types of analysis implemented in the SQL files)*
 
-1.  **Product Performance (YoY):** Phase 2 analysis reveals that while the **[Insert Category Name]** category has the highest revenue, its Year-over-Year growth is stagnant at **[Insert %]**. Conversely, the **[Insert Category Name]** category, though smaller, is growing at **[Insert %]** YoY.
+1.  **Product Performance (YoY):** Phase 2 analysis reveals that while the **** category has the highest revenue, its Year-over-Year growth is stagnant at **[Insert %]**. Conversely, the **[Insert Category Name]** category, though smaller, is growing at **[Insert %]** YoY.
 2.  **Profitability:** Phase 3 analysis shows that **[Insert Product Category]** contributes **[Insert %]** of total profit despite only accounting for **[Insert %]** of total revenue, highlighting high margins. Several high-volume products are operating at near-zero margins due to high cost of goods sold.
 3.  **Customer Segmentation:** Phase 4 analysis indicates a classic Pareto Principle situation: the top **20%** of customers (segmented as 'High-Value/Champions') are responsible for **[Insert %]** of total profitability.
 
